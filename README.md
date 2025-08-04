@@ -23,5 +23,4 @@ This Jupyter Notebook analyzes an Amazon Ecommerce dataset to extract meaningful
 
 ---
 
-   ```bash
-   git clone https://github.com/your-username/amazon-ecommerce-analysis.git
+
